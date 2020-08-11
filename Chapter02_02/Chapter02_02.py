@@ -86,6 +86,7 @@ print()
 #겉보기에는 2개지만, 실제로는 하나만 존재하는 것
 m = 800
 n = 800
+#m += 1
 print(m == n)
 print(type(m) == type(n))
 print(id(m) == id(n))
